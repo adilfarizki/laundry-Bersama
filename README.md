@@ -7,7 +7,7 @@
 - ubah file .env dbnya menjadi = laun
 - Jalankan composer update
 - Jalankan php artisan key:generate
-- Jalankan php artisan migrate --seed 
+- Jalankan php artisan migrate:fresh
 
 
 ## team project
