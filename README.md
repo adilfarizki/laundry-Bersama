@@ -3,7 +3,7 @@
 
 ## Cara Penggunaan
 
-- Clone repositori dengan git clone
+- Clone repository dengan github dekstop
 - ubah file .env dbnya menjadi = laun
 - Jalankan composer update
 - Jalankan php artisan key:generate
